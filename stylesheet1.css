@@ -1,0 +1,25 @@
+body{
+    padding: 50px;
+    margin: 50px;
+    border: 50px;
+}
+
+.divA {
+    background-color: red;
+   width: 50%;
+    height: 50%;
+}
+
+.divB {
+    background-color:blue;
+    width: 40%;
+    height: 50%;
+}
+.divC {
+    background-color:green;
+    width: 30%;
+    height: 50%;
+}
+@media (min-width:320px) { /* smartphones, iPhone, portrait 480x320 phones */ }
+@media (min-width:641px) { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
+@media (min-width:1281px) { /* hi-res laptops and desktops */ }
