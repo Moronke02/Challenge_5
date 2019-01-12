@@ -1,0 +1,17 @@
+/* img{
+    width: 300px
+}
+img.image{
+    width: 10px
+}
+img#picture{
+    width: 100px
+}*/
+.image {
+    background-image: url(./image.png);
+    width: 456px;
+}
+img#picture {
+    background-image: url(./image.png);
+    width: 456px;
+}
